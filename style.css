@@ -1,0 +1,80 @@
+
+body {
+    margin:0px;
+    font-family:Roboto;
+    display: flex;
+    flex-direction:column;
+    justify-content:center;
+}
+
+.header {
+    background-color:#1F2937;
+}
+
+.content {
+    max-width:75%;
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    margin:auto;
+}
+
+#logo {
+    font-size: 24px;
+    color: #F9FAF8;
+    font-weight:bold;
+}
+
+a {
+    text-decoration: none;
+    color: #E5E7EB;
+    font-size: 18px;
+    margin: 0px 10px;
+}
+
+.intro {
+    background-color:#1F2937;
+}
+
+#tx {
+
+}
+
+.hero {
+    font-size: 48px;
+    color: #F9FAF8;
+    font-weight: 900;
+}
+
+.subtxt {
+    font-size:18px;
+    color: #E5E7EB;
+}
+
+#imag {
+
+}
+
+.info {
+
+}
+
+#intimg {
+
+}
+
+.quote {
+
+}
+
+.sign {
+
+}
+
+#box {
+
+}
+
+.footer {
+    background-color:#1F2937;
+}
