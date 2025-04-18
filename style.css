@@ -46,10 +46,6 @@ a {
     gap:100px;
 }
 
-#tx {
-
-}
-
 .hero {
     font-size: 48px;
     color: #F9FAF8;
@@ -114,16 +110,44 @@ h2 {
     text-align:center;
 }
 
-.quote {
+.quotus {
+    max-width:70%;
+    display:flex;
+    flex-direction:column;
+    justify-content:space-between;
+    align-items:center;
+    margin:auto;
+}
 
+.quote {
+    background-color: #E5E7EB;
+    padding: 50px 0px;
+}
+
+#quo {
+    font-size: 36px; 
+    font-style: italic;
+    font-weight: light;
+    color: #1F2937;
+}
+
+h5 {
+    align-self: flex-end;
+    font-size: 20px;
 }
 
 .sign {
-
+    max-width: 70%;
+    display:flex;
+    margin: auto;
+    align-items: stretch;
+    padding: 50px 0px;
 }
 
 #box {
-
+    display:flex;
+    padding: 10px 100px;
+    background-color:#3882F6;
 }
 
 .footer {
